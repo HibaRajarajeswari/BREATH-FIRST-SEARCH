@@ -1,6 +1,9 @@
 # Lab Experiment1: Breadth First Search
-## Write a Python program to implement breath First Search. 
-## PROGRAM
+# DATE : 17/02/24
+# REGISTER NUMBER: 212221040056
+# AIM:
+Write a Python program to implement breath First Search. 
+# PROGRAM
 ```
 graph = {
   '2': ['3', '4'],
@@ -34,7 +37,7 @@ bfs(visited, graph, '2')
 ```
 ## OUTPUT
 ![image](https://github.com/HibaRajarajeswari/BREATH-FIRST-SEARCH/assets/129970809/0933e32f-7995-4a6d-9040-034737cb946b)
-## RESULT
+# RESULT
 
 A Python program to implement breath First Search is executed successfully.
 
